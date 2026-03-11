@@ -1,0 +1,11 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "home_page": "Startseite",
+  "about_page": "Über uns",
+  "example_message": "Willkommen in deiner i18n-App.",
+  "language_label": "Sprache",
+  "current_locale": "Aktuelle Sprache: {locale}",
+  "learn_router": "Paraglide JS lernen",
+  "home_hero_subtitle": "好奇心のスイッチを押して、世界をちょっと面白くする",
+  "home_works": "ワークス"
+}
